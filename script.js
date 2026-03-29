@@ -3,7 +3,7 @@ function changeText() {
 }
 
 function changeColor() {
-  document.body.style.background = "lightblue";
+  document.body.style.backgroundColor = "lightblue";
 }
 
 function hideText() {
