@@ -3,6 +3,7 @@ function changeText() {
 }
 
 function changeColor() {
+  alert("clicked");
   document.body.style.setProperty("background-color", "yellow", "important");
 }
 
